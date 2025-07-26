@@ -475,7 +475,7 @@ bot.on("chatCreate", async (user, message) => {
   }
 
   // --- Punish/Stop Punish (جلد/رحمه) ---
-  if (adminIds) {
+  if (isAdmin) {
     // Punish: جلد @username
     const punishMatch = msg.match(/^جلد\s+@([\w.]+)/);
     if (punishMatch) {
