@@ -1,0 +1,17 @@
+[
+  {
+    "admin": "@ee.z",
+    "action": "muted",
+    "target": "@E0T",
+    "duration": "5m",
+    "time": 1753464857110,
+    "source": "Using The Bot"
+  },
+  {
+    "admin": "@unknown",
+    "action": "kicked",
+    "target": "@E0T",
+    "time": 1753464895670,
+    "source": "Manually"
+  }
+]
